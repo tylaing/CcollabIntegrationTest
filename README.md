@@ -1,3 +1,3 @@
 # CcollabIntegrationTest
 
-6
+7
